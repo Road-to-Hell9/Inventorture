@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inventorture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a4232457903fa12775e128ae322a5f3888101045")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+915167a234214c1da001b517d16db66c74d41222")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inventorture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inventorture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
